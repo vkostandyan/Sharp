@@ -1,0 +1,15 @@
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\bin\Debug\net9.0\enums.exe
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\bin\Debug\net9.0\enums.deps.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\bin\Debug\net9.0\enums.runtimeconfig.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\bin\Debug\net9.0\enums.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\bin\Debug\net9.0\enums.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.AssemblyInfoInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.AssemblyInfo.cs
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.csproj.CoreCompileInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.sourcelink.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\refint\enums.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\enums.genruntimeconfig.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums\obj\Debug\net9.0\ref\enums.dll
