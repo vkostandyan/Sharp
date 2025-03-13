@@ -1,0 +1,15 @@
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\bin\Debug\net9.0\structs.exe
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\bin\Debug\net9.0\structs.deps.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\bin\Debug\net9.0\structs.runtimeconfig.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\bin\Debug\net9.0\structs.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\bin\Debug\net9.0\structs.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.AssemblyInfoInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.AssemblyInfo.cs
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.sourcelink.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\refint\structs.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\structs.genruntimeconfig.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\structs\obj\Debug\net9.0\ref\structs.dll
