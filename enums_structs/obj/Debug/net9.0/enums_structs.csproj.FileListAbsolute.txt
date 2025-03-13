@@ -1,0 +1,15 @@
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.AssemblyInfoInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.AssemblyInfo.cs
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.csproj.CoreCompileInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.sourcelink.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\bin\Debug\net9.0\enums_structs.exe
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\bin\Debug\net9.0\enums_structs.deps.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\bin\Debug\net9.0\enums_structs.runtimeconfig.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\bin\Debug\net9.0\enums_structs.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\bin\Debug\net9.0\enums_structs.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\refint\enums_structs.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\enums_structs.genruntimeconfig.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\enums_structs\obj\Debug\net9.0\ref\enums_structs.dll
