@@ -1,0 +1,15 @@
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\bin\Debug\net9.0\ctors.exe
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\bin\Debug\net9.0\ctors.deps.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\bin\Debug\net9.0\ctors.runtimeconfig.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\bin\Debug\net9.0\ctors.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\bin\Debug\net9.0\ctors.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.AssemblyInfoInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.AssemblyInfo.cs
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.csproj.CoreCompileInputs.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.sourcelink.json
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\refint\ctors.dll
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.pdb
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ctors.genruntimeconfig.cache
+C:\Users\Vitali Kostandyan\Desktop\Sharp\ctors\obj\Debug\net9.0\ref\ctors.dll
