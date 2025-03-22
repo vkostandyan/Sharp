@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vitali Kostandyan\\Desktop\\Sharp\\enums\\enums.csproj",
-      "projectName": "enums",
-      "projectPath": "C:\\Users\\Vitali Kostandyan\\Desktop\\Sharp\\enums\\enums.csproj",
+      "projectUniqueName": "C:\\Users\\Vitali Kostandyan\\Desktop\\Sharp\\Static\\Static.csproj",
+      "projectName": "Static",
+      "projectPath": "C:\\Users\\Vitali Kostandyan\\Desktop\\Sharp\\Static\\Static.csproj",
       "packagesPath": "C:\\Users\\Vitali Kostandyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vitali Kostandyan\\Desktop\\Sharp\\enums\\obj\\",
+      "outputPath": "C:\\Users\\Vitali Kostandyan\\Desktop\\Sharp\\Static\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vitali Kostandyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
